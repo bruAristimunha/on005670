@@ -1,4 +1,4 @@
-Unreleased 2026-10-18
+1.0.1 2026-10-22
   - channels.tsv generated for 1 recording(s) without one, from the data header and electrodes.tsv (238 channels: ECG 2, MISC 12, SEEG 224).
   - README: section 'Channels table generated from the data header'.
 
